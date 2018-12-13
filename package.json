@@ -1,0 +1,23 @@
+{
+  "name": "projectshim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MekiaE/projectShim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MekiaE/projectShim/issues"
+  },
+  "homepage": "https://github.com/MekiaE/projectShim#readme",
+  "dependencies": {
+    "fabric-client": "^1.3.0",
+    "fabric-shim": "^1.3.1"
+  }
+}
